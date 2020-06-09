@@ -6,7 +6,7 @@
  * @Description: In User Settings Edit
  * @FilePath: /jenkins/app.js
  */
-console.log(1);
+console.log(12);
 const Koa = require("koa");
 const app = new Koa();
 const views = require("koa-views");
